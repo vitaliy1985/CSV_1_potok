@@ -1,3 +1,3 @@
-Обработка CSV в командной строке Windows
+Обработка CSV в командной строке Windows в 1 поток
 
-CSV processing on the Windows command line
+Processing CSV in the Windows command line in 1 thread
